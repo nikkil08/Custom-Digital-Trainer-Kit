@@ -11,7 +11,7 @@ Auto-Test Mode: A built-in diagnostic tool that cycles through all 16 binary sta
 Logic Debugging: Specifically designed to identify "invalid" BCD states (10-15) and hardware "blanking" behaviors.
 
 👤 Author
-Nikkil Prithivn - Digital Electronics Enthusiast & Hardware Developer
+Nikkil Prithvin - Digital Electronics Enthusiast & Hardware Developer
 
 📜 License
 This project is open-source and available under the MIT License.
